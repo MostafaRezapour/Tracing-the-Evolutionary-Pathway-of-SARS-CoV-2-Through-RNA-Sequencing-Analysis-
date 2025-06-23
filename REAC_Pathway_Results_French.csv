@@ -1,0 +1,11 @@
+Strain,name,p_value,-log10(p-value),intersection_size,term_size,query_size
+French,Eukaryotic Translation Elongation,6.533112802562491e-22,21.18487984309482,55,94,1472
+French,Peptide chain elongation,3.0243885307221448e-21,20.519362417565752,53,90,1472
+French,Viral mRNA Translation,2.8095638188637686e-20,19.55136109851637,52,90,1472
+French,Selenocysteine synthesis,5.2565729794708325e-20,19.27929730169414,53,94,1472
+French,Eukaryotic Translation Termination,4.417629403785065e-19,18.35481072002682,52,94,1472
+French,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),1.6176623376634725e-18,17.791112125612113,52,96,1472
+French,Response of EIF2AK4 (GCN2) to amino acid deficiency,8.513925338127167e-18,17.069870162636867,53,102,1472
+French,Formation of a pool of free 40S subunits,8.513925338127167e-18,17.069870162636867,53,102,1472
+French,Selenoamino acid metabolism,6.559297334244593e-16,15.18314268199705,55,117,1472
+French,L13a-mediated translational silencing of Ceruloplasmin expression,1.94000290233283e-15,14.712197620344934,53,112,1472

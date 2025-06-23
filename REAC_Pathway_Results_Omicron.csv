@@ -1,0 +1,11 @@
+Strain,name,p_value,-log10(p-value),intersection_size,term_size,query_size
+Omicron,Interferon alpha/beta signaling,5.7352955314049845e-18,17.24144419862556,27,76,381
+Omicron,Interferon Signaling,2.261507725856416e-17,16.64560192426072,46,263,381
+Omicron,Cytokine Signaling in Immune system,3.305512475102448e-08,7.480761199459625,64,777,381
+Omicron,Immune System,6.230012183681996e-08,7.205511104014877,124,2079,381
+Omicron,Interferon gamma signaling,1.2602261418206096e-07,6.899551515729714,19,91,381
+Omicron,Antiviral mechanism by IFN-stimulated genes,0.0018268326619667137,2.738301232238507,18,147,381
+Omicron,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,0.002166177239292678,2.6643060117468735,6,14,381
+Omicron,Cell Cycle,0.0022638845301266855,2.6451457281938753,47,677,381
+Omicron,Cell Cycle Checkpoints,0.00484482002119684,2.3147223517923483,26,289,381
+Omicron,Response of EIF2AK4 (GCN2) to amino acid deficiency,0.006001785986214854,2.221719494859692,14,102,381

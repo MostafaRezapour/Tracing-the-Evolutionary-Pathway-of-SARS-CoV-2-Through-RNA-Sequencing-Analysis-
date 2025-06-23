@@ -1,0 +1,11 @@
+Strain,name,p_value,-log10(p-value),intersection_size,term_size,query_size
+Original_ICU,Eukaryotic Translation Elongation,1.034005262959609e-37,36.98547725073095,77,94,2040
+Original_ICU,Viral mRNA Translation,2.1506530723716634e-36,35.6674296411729,74,90,2040
+Original_ICU,Peptide chain elongation,2.1506530723716634e-36,35.6674296411729,74,90,2040
+Original_ICU,Selenocysteine synthesis,3.6247956138864034e-35,34.44071647633816,75,94,2040
+Original_ICU,Eukaryotic Translation Termination,6.147916863599991e-34,33.21127201396408,74,94,2040
+Original_ICU,Formation of a pool of free 40S subunits,4.32847547916925e-33,32.36366503841968,77,102,2040
+Original_ICU,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),8.178339607628059e-33,32.08733485921864,74,96,2040
+Original_ICU,Response of EIF2AK4 (GCN2) to amino acid deficiency,8.943194596063328e-30,29.04850731927823,74,102,2040
+Original_ICU,L13a-mediated translational silencing of Ceruloplasmin expression,1.8552783793291086e-28,27.731590916487853,77,112,2040
+Original_ICU,GTP hydrolysis and joining of the 60S ribosomal subunit,4.780494324663792e-28,27.320527193058634,77,113,2040
