@@ -17,24 +17,3 @@ To begin, download bulk RNA-Seq data from the following publicly available studi
 | GSE239595  | NP lymphoid tissue | Omicron                | 9 total (3 COVID-negative; 6 COVID-positive)                                 | Seoul, South Korea (2022–2023)     |
 
 
-File Format
-Each dataset should be formatted as follows:
-
-Samples are columns, genes are rows.
-
-The first row must include column names.
-
-The first column must be titled Gene Symbol, listing the gene names.
-
-Sample names should be cleaned to use consistent naming across datasets, using (1), (2), etc., to distinguish replicates within each group.
-
-Pipeline Steps
-Once all datasets are correctly formatted, run the following scripts in order:
-
-0000000000-part 1-DE analysis.R – to generate differentially expressed genes (DGEs).
-
-0000000000-part 2-classification.ipynb – for classification analysis.
-
-0000000000-part 3-GO and Pathway analysis.ipynb – for pathway and GO enrichment analysis.
-
-Note: The script Pathway and GO.R must be located in the same directory as the notebooks for part 3 to run properly.
